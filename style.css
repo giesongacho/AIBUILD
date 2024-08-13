@@ -1,0 +1,14 @@
+@media print {
+    @page {
+        size: 4in 2in;
+    }
+}
+
+/* .p-datatable-wrapper {
+    overflow: scroll;
+    height: 384px;
+} */
+
+/* .p-column-filter {
+    background-color: pink;
+} */
